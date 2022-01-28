@@ -1,0 +1,12 @@
+Battle DeathStars is similar to the traditional Battleship® game, except it uses Star Wars® Death Stars and planets instead.
+The program was designed by Ryan Beckett and Shreeji B. Patel.
+When the game starts, the player should place planets by clicking on 10 points throughout the grid. Alternatively, the player
+may instead use the place random planets button. Additionally, as an accessibility feature, the player may use spin controls
+and text boxes to place planets.
+The player should adjust the number of planets as well as the number of shots allowed.
+The number of shots allowed is the limit on how many times the Death Star can fire before it runs out of energy.
+Setup Mode: Means that the user can place planets at this time.
+Test Mode: Allows the user to view where planets are placed during shooting. During test mode, only test planets are destroyed.
+Battle Mode: Indicates that real planets will be destroyed when the Death Star hits one. Battle mode transitions back to Setup
+mode when all of the planets have been destroyed.
+The goal of this game is to shoot as many planets with the Death Star as possible while using the least amount of shots.
